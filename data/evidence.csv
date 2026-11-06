@@ -1,0 +1,2 @@
+evidence_id,game_id,source,url,claim,collected_at,confidence
+com.supercell.clashroyale:google_play,com.supercell.clashroyale,google_play,https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=US,discovery/public metadata,2026-11-06T08:19:15.177862+00:00,medium

@@ -1,0 +1,4 @@
+post_launch:
+  heat: {steam_reviews: 0.35, recency: 0.25, updates: 0.15, evidence: 0.25}
+  demand: {explicit_requests: 0.5, pain_points: 0.3, ecosystem: 0.2}
+opportunity: {heat: 0.30, demand: 0.35, commercial: 0.25, promotion: 0.10}
