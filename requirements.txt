@@ -2,5 +2,7 @@ streamlit>=1.39
 pandas>=2.2
 plotly>=5.24
 requests>=2.32
+beautifulsoup4>=4.12
+google-play-scraper>=1.2.7
 PyYAML>=6.0
 pytest>=8.3

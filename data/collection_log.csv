@@ -1,3 +1,4 @@
 collected_at,source,status,message,records
-2026-11-06T08:19:09.794180+00:00,steam,error,"ConnectionError: HTTPSConnectionPool(host='store.steampowered.com', port=443): Max retries exceeded with url: /api/featuredcategories (Caused by NewConnectionError(""HTTPSConnection(host='store.steampowered.com', port=443): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))",0
-2026-11-06T08:19:09.794180+00:00,google_play,partial,Public metadata retrieved; installs and historical downloads are not supplied by this probe,1
+2026-11-06T08:33:17.588521+00:00,google_play_chart,ok,Parsed 8 chart candidates; enriched 7 public app records; 1 detail requests failed,7
+2026-11-06T08:33:17.588521+00:00,steam,error,"ConnectionError: HTTPSConnectionPool(host='store.steampowered.com', port=443): Max retries exceeded with url: /api/featuredcategories (Caused by NewConnectionError(""HTTPSConnection(host='store.steampowered.com', port=443): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。""))",0
+2026-11-06T08:33:17.588521+00:00,google_play,partial,Public metadata retrieved; installs and historical downloads are not supplied by this probe,1

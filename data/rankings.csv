@@ -1,2 +1,9 @@
 game_id,name,lifecycle,heat_score,demand_score,commercial_score,promotion_score,opportunity_score,confidence,rating_status,reason
-com.supercell.clashroyale,0,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.gameloft.android.ANMP.GloftA9HM,0,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.bandainamcoent.op_restaurant,1,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.mythicowl.truckful,2,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.playdigious.absolum,3,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.YoStarEN.Arknights,4,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.YoStarJP.Arknights,5,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.YoStarKR.Arknights,6,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
+com.supercell.clashroyale,7,S3-S5,,,,,,low,数据不足，暂不可评级,当前仅有发现/基础元数据；缺少近30天下载、增长、真实需求与商业化证据。
