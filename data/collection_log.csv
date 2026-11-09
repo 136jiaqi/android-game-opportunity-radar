@@ -1,4 +1,4 @@
 collected_at,source,status,message,records
-2026-11-08T08:57:17.472480+00:00,google_play_chart,ok,Parsed 8 chart candidates; enriched 7 public app records; 1 detail requests failed,7
-2026-11-08T08:57:17.472480+00:00,steam,ok,Discovered 10 public coming-soon records,10
-2026-11-08T08:57:17.472480+00:00,google_play,partial,Public metadata retrieved; installs and historical downloads are not supplied by this probe,1
+2026-11-09T09:44:28.133990+00:00,google_play_chart,ok,Parsed 8 chart candidates; enriched 7 public app records; 1 detail requests failed,7
+2026-11-09T09:44:28.133990+00:00,steam,ok,Discovered 10 public coming-soon records,10
+2026-11-09T09:44:28.133990+00:00,google_play,partial,Public metadata retrieved; installs and historical downloads are not supplied by this probe,1
